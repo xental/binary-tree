@@ -21,4 +21,4 @@ install:
 script:
 - mkdir build && cd build
 - cmake .. && make
-- ./test/test
+- ./bin/test
