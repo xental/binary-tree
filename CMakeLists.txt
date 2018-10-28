@@ -1,4 +1,8 @@
 cmake_minimum_required(VERSION 3.2.0)
+
+SET(CMAKE_C_COMPILER gcc)
+SET(CMAKE_CXX_COMPILER g++)
+
 project(BinaryTree)
 #add_subdirectory("third_parties")
 
